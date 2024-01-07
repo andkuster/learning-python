@@ -6,6 +6,7 @@ Sources:
 - https://www.w3schools.com/python/
 - https://www.kaggle.com/learn/python
 - https://wesmckinney.com/book/preface
+- https://sheriffjbabu.medium.com/learn-python-for-data-analysis-in-30-days-60f411910937
 - https://www.markdownguide.org/cheat-sheet/
 
 Notebooks:
