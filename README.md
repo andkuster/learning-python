@@ -6,6 +6,7 @@ Sources:
 - https://www.w3schools.com/python/
 - https://www.kaggle.com/learn/python
 - https://wesmckinney.com/book/preface
+- https://www.markdownguide.org/cheat-sheet/
 
 Notebooks:
 - [Day 1](https://github.com/andkuster/learning-python/blob/main/day_1.ipynb) - Variables, Types, Strings, Operators
