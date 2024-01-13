@@ -15,3 +15,4 @@ Notebooks:
 - [Day 3](https://github.com/andkuster/learning-python/blob/main/day_3.ipynb) - While loops and String methods
 - [Day 4](https://github.com/andkuster/learning-python/blob/main/day_4.ipynb) - For loops, Lists, List methods
 - [Day 5](https://github.com/andkuster/learning-python/blob/main/day_5.ipynb) - Tuples and Dictionaries
+- [Day 6](https://github.com/andkuster/learning-python/blob/main/day_6.ipynb) - Functions and List Comprehensions
