@@ -16,3 +16,5 @@ Notebooks:
 - [Day 4](https://github.com/andkuster/learning-python/blob/main/day_4.ipynb) - For loops, Lists, List methods
 - [Day 5](https://github.com/andkuster/learning-python/blob/main/day_5.ipynb) - Tuples and Dictionaries
 - [Day 6](https://github.com/andkuster/learning-python/blob/main/day_6.ipynb) - Functions and List Comprehensions
+- [Day 7](https://github.com/andkuster/learning-python/blob/main/day_7.ipynb) - Lambda Functions and Exercices
+- [Day 8](https://github.com/andkuster/learning-python/blob/main/day_8.ipynb) - Functional Programming
