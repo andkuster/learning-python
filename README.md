@@ -10,6 +10,7 @@ Notebooks:
 - [Day 6](https://github.com/andkuster/learning-python/blob/main/day_6.ipynb) - Functions and List Comprehensions
 - [Day 7](https://github.com/andkuster/learning-python/blob/main/day_7.ipynb) - Lambda Functions and Exercices
 - [Day 8](https://github.com/andkuster/learning-python/blob/main/day_8.ipynb) - Functional Programming
+- [Day 9](https://github.com/andkuster/learning-python/blob/main/day_9.ipynb) - File Handling
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
