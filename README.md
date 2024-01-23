@@ -11,6 +11,8 @@ Notebooks:
 - [Day 7](https://github.com/andkuster/learning-python/blob/main/day_7.ipynb) - Lambda Functions and Exercices
 - [Day 8](https://github.com/andkuster/learning-python/blob/main/day_8.ipynb) - Functional Programming
 - [Day 9](https://github.com/andkuster/learning-python/blob/main/day_9.ipynb) - File Handling
+- [Day 10](https://github.com/andkuster/learning-python/blob/main/day_10_project_1.ipynb) - Project - K-Nearest Neighbors
+- [Day 11](https://github.com/andkuster/learning-python/blob/main/day_11.ipynb) - Intro to Object Oriented Programming (OOP)
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
