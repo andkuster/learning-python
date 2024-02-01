@@ -14,11 +14,13 @@ Notebooks:
 - [Day 10](https://github.com/andkuster/learning-python/blob/main/day_10_project_1.ipynb) - Project - K-Nearest Neighbors
 - [Day 11](https://github.com/andkuster/learning-python/blob/main/day_11.ipynb) - Intro to Object Oriented Programming (OOP)
 - [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions
+- [Day 13](https://github.com/andkuster/learning-python/blob/main/day_13.ipynb) - Intro to NumPy
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
 - https://www.w3schools.com/python/
 - https://www.kaggle.com/learn/python
 - https://wesmckinney.com/book/preface
+- https://numpy.org/
 - https://sheriffjbabu.medium.com/learn-python-for-data-analysis-in-30-days-60f411910937
 - https://www.markdownguide.org/cheat-sheet/
