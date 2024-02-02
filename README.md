@@ -2,15 +2,15 @@
 Here is where I started my first lines in python!
 
 Notebooks:
-- [Day 1](https://github.com/andkuster/learning-python/blob/main/day_1.ipynb) - Variables, Types, Strings, Operators
-- [Day 2](https://github.com/andkuster/learning-python/blob/main/day_2.ipynb) - Python Conditions and If statements
-- [Day 3](https://github.com/andkuster/learning-python/blob/main/day_3.ipynb) - While loops and String methods
-- [Day 4](https://github.com/andkuster/learning-python/blob/main/day_4.ipynb) - For loops, Lists, List methods
-- [Day 5](https://github.com/andkuster/learning-python/blob/main/day_5.ipynb) - Tuples and Dictionaries
-- [Day 6](https://github.com/andkuster/learning-python/blob/main/day_6.ipynb) - Functions and List Comprehensions
-- [Day 7](https://github.com/andkuster/learning-python/blob/main/day_7.ipynb) - Lambda Functions and Exercices
-- [Day 8](https://github.com/andkuster/learning-python/blob/main/day_8.ipynb) - Functional Programming
-- [Day 9](https://github.com/andkuster/learning-python/blob/main/day_9.ipynb) - File Handling
+- [Day 1](https://github.com/andkuster/learning-python/blob/main/day_01.ipynb) - Variables, Types, Strings, Operators
+- [Day 2](https://github.com/andkuster/learning-python/blob/main/day_02.ipynb) - Python Conditions and If statements
+- [Day 3](https://github.com/andkuster/learning-python/blob/main/day_03.ipynb) - While loops and String methods
+- [Day 4](https://github.com/andkuster/learning-python/blob/main/day_04.ipynb) - For loops, Lists, List methods
+- [Day 5](https://github.com/andkuster/learning-python/blob/main/day_05.ipynb) - Tuples and Dictionaries
+- [Day 6](https://github.com/andkuster/learning-python/blob/main/day_06.ipynb) - Functions and List Comprehensions
+- [Day 7](https://github.com/andkuster/learning-python/blob/main/day_07.ipynb) - Lambda Functions and Exercices
+- [Day 8](https://github.com/andkuster/learning-python/blob/main/day_08.ipynb) - Functional Programming
+- [Day 9](https://github.com/andkuster/learning-python/blob/main/day_09.ipynb) - File Handling
 - [Day 10](https://github.com/andkuster/learning-python/blob/main/day_10_project_1.ipynb) - Project - K-Nearest Neighbors
 - [Day 11](https://github.com/andkuster/learning-python/blob/main/day_11.ipynb) - Intro to Object Oriented Programming (OOP)
 - [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions and Generators
