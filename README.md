@@ -13,7 +13,7 @@ Notebooks:
 - [Day 9](https://github.com/andkuster/learning-python/blob/main/day_9.ipynb) - File Handling
 - [Day 10](https://github.com/andkuster/learning-python/blob/main/day_10_project_1.ipynb) - Project - K-Nearest Neighbors
 - [Day 11](https://github.com/andkuster/learning-python/blob/main/day_11.ipynb) - Intro to Object Oriented Programming (OOP)
-- [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions
+- [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions and Generators
 - [Day 13](https://github.com/andkuster/learning-python/blob/main/day_13.ipynb) - Intro to NumPy
 
 Sources: 
