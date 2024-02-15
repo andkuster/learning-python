@@ -15,6 +15,7 @@ Notebooks:
 - [Day 11](https://github.com/andkuster/learning-python/blob/main/day_11.ipynb) - Intro to Object Oriented Programming (OOP)
 - [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions and Generators
 - [Day 13](https://github.com/andkuster/learning-python/blob/main/day_13.ipynb) - Intro to NumPy - ndarray
+- [Day 14](https://github.com/andkuster/learning-python/blob/main/day_14.ipynb) - NumPy Data Types, Indexing and Slicing
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
