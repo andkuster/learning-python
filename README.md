@@ -16,6 +16,7 @@ Notebooks:
 - [Day 12](https://github.com/andkuster/learning-python/blob/main/day_12.ipynb) - Exceptions, Closures, Recursive Functions and Generators
 - [Day 13](https://github.com/andkuster/learning-python/blob/main/day_13.ipynb) - Intro to NumPy - ndarray
 - [Day 14](https://github.com/andkuster/learning-python/blob/main/day_14.ipynb) - NumPy Data Types, Indexing and Slicing
+- [Day 15](https://github.com/andkuster/learning-python/blob/main/day_15.ipynb) - Built-in methods, Math functions, Linear Algebra
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
