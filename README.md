@@ -17,6 +17,7 @@ Notebooks:
 - [Day 13](https://github.com/andkuster/learning-python/blob/main/day_13.ipynb) - Intro to NumPy - ndarray
 - [Day 14](https://github.com/andkuster/learning-python/blob/main/day_14.ipynb) - NumPy Data Types, Indexing and Slicing
 - [Day 15](https://github.com/andkuster/learning-python/blob/main/day_15.ipynb) - Built-in methods, Math functions, Linear Algebra
+- [Day 16](https://github.com/andkuster/learning-python/blob/main/day_16.ipynb) - Intro do Pandas
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
