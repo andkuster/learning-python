@@ -20,6 +20,7 @@ Notebooks:
 - [Day 16](https://github.com/andkuster/learning-python/blob/main/day_16.ipynb) - Intro to Pandas
 - [Day 17](https://github.com/andkuster/learning-python/blob/main/day_17.ipynb) - Pandas Data Frames
 - [Day 18](https://github.com/andkuster/learning-python/blob/main/day_18.ipynb) - ETL and EDA with Pandas
+- [Day 19](https://github.com/andkuster/learning-python/blob/main/day_19_project_2.ipynb) - Project - Exploratory Data Analysis 
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
