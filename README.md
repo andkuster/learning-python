@@ -1,7 +1,12 @@
 # learning-python
-Here is where I started my first lines in python!
 
-Notebooks:
+How I learned Python in 30 steps.
+
+<img src="https://github.com/andkuster/learning-python/assets/95363236/c4475643-a549-424f-ba3d-1354c3bf8358" width="500"/><br>
+Foto de <a href="https://unsplash.com/pt-br/@ffstop?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Fotis Fotopoulos</a> na <a href="https://unsplash.com/pt-br/fotografias/teclado-preto-do-computador-DuHKoV44prg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+### Notebooks:
 - [Day 1](https://github.com/andkuster/learning-python/blob/main/day_01.ipynb) - Variables, Types, Strings, Operators
 - [Day 2](https://github.com/andkuster/learning-python/blob/main/day_02.ipynb) - Python Conditions and If statements
 - [Day 3](https://github.com/andkuster/learning-python/blob/main/day_03.ipynb) - While loops and String methods
@@ -25,7 +30,7 @@ Notebooks:
 - [Day 21](https://github.com/andkuster/learning-python/blob/main/day_21.ipynb) - Data Visualization I (Matplotlib)
 - [Day 22](https://github.com/andkuster/learning-python/blob/main/day_22.ipynb) - Data Visualization II (Matplotlib)
 
-Sources: 
+### Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
 - https://www.w3schools.com/python/
 - https://www.kaggle.com/learn/python
