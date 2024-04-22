@@ -22,6 +22,8 @@ Notebooks:
 - [Day 18](https://github.com/andkuster/learning-python/blob/main/day_18.ipynb) - ETL and EDA with Pandas
 - [Day 19](https://github.com/andkuster/learning-python/blob/main/day_19_project_2.ipynb) - Project - Exploratory Data Analysis
 - [Day 20](https://github.com/andkuster/learning-python/blob/main/day_20.ipynb) - Intro to Statistics
+- [Day 21](https://github.com/andkuster/learning-python/blob/main/day_21.ipynb) - Data Visualization I (Matplotlib)
+- [Day 22](https://github.com/andkuster/learning-python/blob/main/day_22.ipynb) - Data Visualization II (Matplotlib)
 
 Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
