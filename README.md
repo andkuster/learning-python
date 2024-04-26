@@ -29,6 +29,7 @@ Foto de <a href="https://unsplash.com/pt-br/@ffstop?utm_content=creditCopyText&u
 - [Day 20](https://github.com/andkuster/learning-python/blob/main/day_20.ipynb) - Intro to Statistics
 - [Day 21](https://github.com/andkuster/learning-python/blob/main/day_21.ipynb) - Data Visualization I (Matplotlib)
 - [Day 22](https://github.com/andkuster/learning-python/blob/main/day_22.ipynb) - Data Visualization II (Matplotlib)
+- [Day 23](https://github.com/andkuster/learning-python/blob/main/day_23.ipynb) - Data Visualization III (Seaborn)
 
 ### Sources: 
 - https://www.geeksforgeeks.org/python-programming-language/
